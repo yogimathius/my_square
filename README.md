@@ -2,18 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Getting two number arguments, create a square in the terminal based on the horizontal and vertical shape from those two number values
 
 ## Description
-TODO - How have you solved the problem?
+Created two loops that max at the two integer values, and conditionally printed "o", "-", " ", or "|" depending on the position to be printed
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+N/a
 
 ## Usage
-TODO - How does it work?
 ```
-./my_project argument1 argument2
+./a.out integer_one integer_two
 ```
 
 ### The Core Team
